@@ -1,5 +1,5 @@
 # Serverest  - API e Web
-Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de API e Web na aplicação Servrest.
+Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de API e Web na aplicação Serverest.
 
 **Tecnologias**
 * Javascript
