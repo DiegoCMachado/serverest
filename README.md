@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de AP
 * VSCdode
 * Api Plugin
 * Faker-js
-* Githbu Actions
+* Github Actions
 
 **Inicializando**
 * Clone o repositorio:
