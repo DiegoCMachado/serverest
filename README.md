@@ -10,7 +10,7 @@ Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de AP
 
 **Inicializando**
 * Clone o repositorio:
-* git clone [https://github.com/DiegoCMachado/SauceDemo-Playwright.git](https://github.com/DiegoCMachado/serverest.git)
+* git clone https://github.com/DiegoCMachado/serverest
 
 **Rodar projeto**:
 * npm install
