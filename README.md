@@ -6,6 +6,7 @@ Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de AP
 * VSCdode
 * Api Plugin
 * Faker-js
+* Githbu Actions
 
 **Inicializando**
 * Clone o repositorio:
@@ -19,3 +20,6 @@ Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de AP
 
 **Rodando os Testes pelo NPM Scripts- Modo assistido**
 * cy:open
+
+**Rodando os Testes em CI/CD**
+* Os testes rodam automaticamente ao efetuar "push" no repositório
